@@ -1,0 +1,4 @@
+Dokku
+Dokku is a docker powered mini Heroku. It’s one of the first names that comes up on your screen when looking for a Heroku alternative.
+
+It prides itself on being the smallest PaaS implementation you’ve ever seen. But don’t confuse its small size for fewer features. It provides just the right amount of features to help you build and manage the lifecycle of all your applications.

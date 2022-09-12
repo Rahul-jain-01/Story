@@ -1,0 +1,4 @@
+Caprover
+CapRover is an extremely easy to use app/database deployment & web server manager.
+
+Unlike Heroku, it does not have the git push functionality. But it does ship with a cli offering similar features.
